@@ -1,0 +1,17 @@
+87 ?- total_average.
+Enter the first number: 5.
+Enter the second number: |: 10.
+Enter the third number: |: 15.
+
+Total = 30
+Average = 10
+true.
+
+88 ?- total_average.
+Enter the first number: 1.
+Enter the second number: |: 2.
+Enter the third number: |: 3.
+
+Total = 6
+Average = 2
+true.

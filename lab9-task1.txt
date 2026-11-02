@@ -1,0 +1,19 @@
+79 ?- logicGate(true, true, Output).
+Output = true ;
+No more solutions.
+false.
+
+80 ?- logicGate(true, false, Output).
+Output = false ;
+No more solutions.
+false.
+
+81 ?- logicGate(false, true, Output).
+Output = false ;
+No more solutions.
+false.
+
+82 ?- logicGate(false, false, Output).
+Output = true ;
+No more solutions.
+false.
